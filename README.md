@@ -1,4 +1,7 @@
-## ALGUM DIA IREI EDITAR ISSO AQUI
+# Giordano Soares
+## Hello Wordl!
+
+I'm a Brazilian taking a Technical Course in Systems Development and Also studying English at SenacRs, Caxias do Sul.
 
 <!--
 **GiordanoSoares/GiordanoSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
