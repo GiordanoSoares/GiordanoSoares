@@ -1,7 +1,3 @@
-<div align="center">
-
-# 👋 E aí! Eu sou Giordano Soares
-
 ### 💻 Full-stack Developer · 🚀 API REST
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giordano-soares-410673273/)
