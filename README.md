@@ -59,11 +59,3 @@
 | 🔔 Feedback visual com toast | ✅ |
 
 ---
-
-## 🎯 Objetivos
-
-- [ ] Evoluir como desenvolvedor Full-stack
-- [ ] Aprofundar conhecimentos em Back-end
-- [ ] Construir projetos mais escaláveis
-- [ ] Melhorar arquitetura e organização de código
-- [ ] Aprender testes automatizados
