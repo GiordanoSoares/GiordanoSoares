@@ -1,16 +1,117 @@
-## ALGUM DIA IREI EDITAR ISSO AQUI
+<div align="center">
 
-<!--
-**GiordanoSoares/GiordanoSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 E aí! Eu sou Giordano Soares
 
-Here are some ideas to get you started:
+### 💻 Full-stack Developer · 🚀 API REST · 🧠 Aprendizado constante
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-github)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+> Desenvolvedor Full-stack focado em evolução constante, construção de projetos completos e aprendizado prático.
+
+- 📚 Estudando desenvolvimento Full-stack **diariamente**
+- 🔥 Foco atual em **Back-end, APIs REST e arquitetura**
+- 🛠️ Experiência prática com projetos integrados **Front + API**
+- ⚡ Aprendizado rápido e baseado em **prática real**
+- 🎯 Interesse em evoluir em **Node.js, bancos de dados e sistemas escaláveis**
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 🖥️ Front-end
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+### 📚 Sistema de Biblioteca — Full-stack
+
+> Aplicação completa com autenticação, controle de acesso e gerenciamento de acervo
+
+**Stack:** `Next.js` · `Express` · `Prisma ORM` · `MySQL` · `JWT` · `TailwindCSS`
+
+| Funcionalidade | Status |
+|---|---|
+| 🔐 Login com autenticação JWT | ✅ |
+| 👥 Controle de acesso por roles | ✅ |
+| 📚 CRUD de categorias | ✅ |
+| 📖 Gerenciamento de livros | ✅ |
+| 📦 Sistema de reservas | ✅ |
+| 🔍 Busca e filtros | ✅ |
+| 📊 Dashboard administrativo | ✅ |
+| ⚠️ Rotas protegidas | ✅ |
+| 🔔 Feedback visual com toast | ✅ |
+
+---
+
+## 📈 Atualmente estudando
+
+```
+🏗️  Arquitetura Back-end
+🔗  Middlewares
+🔷  Prisma ORM
+📡  Axios + Interceptors
+🔀  Proxy no Next.js
+🗃️  SQL e modelagem
+🌐  Estruturação de APIs REST
+✨  Clean Code
+```
+
+---
+
+## 🎯 Objetivos
+
+- [ ] Evoluir como desenvolvedor Full-stack
+- [ ] Aprofundar conhecimentos em Back-end
+- [ ] Construir projetos mais escaláveis
+- [ ] Melhorar arquitetura e organização de código
+- [ ] Aprender testes automatizados
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Giordano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-github&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=seu-github&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=seu-github&color=blueviolet&style=for-the-badge)
+
+</div>
