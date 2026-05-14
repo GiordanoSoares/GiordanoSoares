@@ -11,18 +11,6 @@
 
 ---
 
-## 🧠 Sobre mim
-
-> Desenvolvedor Full-stack focado em evolução constante, construção de projetos completos e aprendizado prático.
-
-- 📚 Estudando desenvolvimento Full-stack **diariamente**
-- 🔥 Foco atual em **Back-end, APIs REST e arquitetura**
-- 🛠️ Experiência prática com projetos integrados **Front + API**
-- ⚡ Aprendizado rápido e baseado em **prática real**
-- 🎯 Interesse em evoluir em **Node.js, bancos de dados e sistemas escaláveis**
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 ### 🖥️ Front-end
@@ -69,21 +57,6 @@
 | 📊 Dashboard administrativo | ✅ |
 | ⚠️ Rotas protegidas | ✅ |
 | 🔔 Feedback visual com toast | ✅ |
-
----
-
-## 📈 Atualmente estudando
-
-```
-🏗️  Arquitetura Back-end
-🔗  Middlewares
-🔷  Prisma ORM
-📡  Axios + Interceptors
-🔀  Proxy no Next.js
-🗃️  SQL e modelagem
-🌐  Estruturação de APIs REST
-✨  Clean Code
-```
 
 ---
 
